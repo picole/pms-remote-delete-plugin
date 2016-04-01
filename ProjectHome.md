@@ -1,0 +1,1 @@
+This is a plugin for PS3 Media Server ( http://code.google.com/p/ps3mediaserver ) that enables users to safely get rid of unwanted media directly from the playback device. Files won't be deleted but moved out of the scope of the media library.
